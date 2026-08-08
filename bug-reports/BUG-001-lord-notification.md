@@ -29,7 +29,3 @@
 ## Impact
 
 Ложное уведомление заставляет игрока совершать лишние переходы и снижает доверие к системе индикаторов.
-
-## Evidence
-
-![Lord notification](../evidence/screenshots/screenshot-01-lord-notification.jpg)
